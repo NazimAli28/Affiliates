@@ -477,11 +477,15 @@ color:inherit;
 .pull-left{
   float:left;
 }
+.copyright {
+  margin-top: 10px;
+}
 .copyright a{
-  color:#eee;
+  color:#000;
+  font-weight: 500;
 }
 .copyright a:hover{
-  color:#eee;
+  color:#000;
 }
 .elegant{
   display: block;
